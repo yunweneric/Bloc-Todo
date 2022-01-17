@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "todo": "Read my journal",
+      "id": 1,
+      "isCompleted": "true"
+    },
+    {
+      "todo": "Listen do potcast",
+      "id": 2,
+      "isCompleted": "false"
+    },
+    {
+      "todo": "Buy garri",
+      "id": 3,
+      "isCompleted": "true"
+    },
+    {
+      "todo": "Buy some data",
+      "id": 4,
+      "isCompleted": "false"
+    },
+    {
+      "todo": "Buy some data",
+      "id": 5,
+      "isCompleted": "true"
+    },
+    {
+      "todo": "This is the initial todo",
+      "isCompleted": "true",
+      "id": 6
+    },
+    {
+      "todo": "Buy eru from the market during break!",
+      "isCompleted": "false",
+      "id": 7
+    },
+    {
+      "todo": "Buy fufu corm",
+      "isCompleted": "false",
+      "id": 8
+    },
+    {
+      "todo": "added",
+      "isCompleted": "false",
+      "id": 9
+    }
+  ]
+}
